@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Output generated files
+output/
+
+# Virtual environments
+.venv/
+
+# VSCode / IDE configs
+.vscode/
+.idea/
